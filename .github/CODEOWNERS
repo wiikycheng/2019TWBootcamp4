@@ -7,7 +7,7 @@
 # review when someone opens a pull request.
 #*       @global-owner1 @global-owner2
 * blake.pan@cinnamon.is jeff.yang@cinnamon.is larry@cinnamon.is leo.liou@cinnamon.is
-*r07942091@ntu.edu.tw/ iris840905yes@gmail.com / b05902045@ntu.edu.tw
+* r07942091@ntu.edu.tw/ iris840905yes@gmail.com / b05902045@ntu.edu.tw
 
 # Order is important; the last matching pattern takes the most
 # precedence. When someone opens a pull request that only
