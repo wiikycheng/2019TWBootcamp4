@@ -2,9 +2,8 @@
 
 ##Team Bang不見
 
-
-###Members:
+### Members:
 - 羅立竣
 - 宋哲寬
-- 鄭惟之
+- 鄭惟之 wiikycheng
 - 許博閔
